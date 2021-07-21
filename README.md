@@ -12,7 +12,7 @@ Since the analysis of methylation coverage on fibers is not straightforward, thi
 
   
 
-To see more and cite: Franek M, Kilar A, Fojtík P, Olšinová M, Benda A, Rotrekl V, Dvořáčková M, Fajkus J. Super-resolution microscopy of chromatin fibers and quantitative DNA methylation analysis of DNA fiber preparations. J Cell Sci. 2021 Jul 9:jcs.258374. doi: 10.1242/jcs.258374.
+To see more and cite: *Franek M, Kilar A, Fojtík P, Olšinová M, Benda A, Rotrekl V, Dvořáčková M, Fajkus J. Super-resolution microscopy of chromatin fibers and quantitative DNA methylation analysis of DNA fiber preparations. J Cell Sci. 2021 Jul 9:jcs.258374. doi: 10.1242/jcs.258374.*
 
    
 
